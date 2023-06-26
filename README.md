@@ -24,3 +24,7 @@ body{
     background-color: var(--cor-de-fundo);
     color:var(--branco-principal);
 }
+.principal{
+    
+}
+    
